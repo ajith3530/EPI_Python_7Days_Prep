@@ -1,0 +1,3 @@
+[submodule "EPI_Judge_Folder"]
+	path = EPI_Judge_Folder
+	url = https://github.com/adnanaziz/EPIJudge.git
